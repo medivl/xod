@@ -40,7 +40,7 @@
     "react-skylight": "git+https://github.com/xodio/react-skylight.git#6dc266edc5198d0d1a6feb57f329826e782ec967",
     "redux": "^3.0.5",
     "redux-thunk": "^2.1.0",
-    "serialport": "^4.0.7",
+    "serialport": "^6.2.2",
     "xod-arduino": "^0.22.0",
     "xod-arduino-deploy": "^0.22.0",
     "xod-client": "^0.22.0",
